@@ -5,6 +5,8 @@
 👷 Fire Alarm Technician by day — learning life-safety systems and the tech behind them.
 🚀 Founder of **Garland Enterprises** by night — building brands, apparel, hockey, and software out of Long Island, NY.
 
+I care about the businesses I work for like they're mine — because when I'm in, I give all I got, all the time. Every job, every shift, whatever it takes. And I'm honest about the other side of that: if the work isn't rewarded or appreciated, I leave — and I build my own. That's how Garland Enterprises started.
+
 ## What I'm building
 
 - 👕 **[Diamond Apparel](https://garland-enterprises.printify.me/)** — clothing with one standard: anyone can wear it, few can live it.
